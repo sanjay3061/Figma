@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 /* Home Page */
 
 position: relative;
@@ -454,12 +455,13 @@ width: 188px;
 height: 192px;
 
 background: url(saveetha logo.jpg);
-
+```
 
 ## OUTPUT:
-![Output](./out1.png)
-![Output](./out2.png)
-![Output](./out3.png)
+![out1](https://github.com/sanjay3061/Figma/assets/121215929/e9caf1ea-05c0-4254-be18-d58cb975b544)
+![out2](https://github.com/sanjay3061/Figma/assets/121215929/5d3af013-f677-4617-b4e1-e0fd1e555b2f)
+![out3](https://github.com/sanjay3061/Figma/assets/121215929/2c81f7e0-51af-4018-a293-99984c8e64ba)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
